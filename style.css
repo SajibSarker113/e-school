@@ -19,3 +19,8 @@ body{
 #t-align{
     text-align: center;
 }
+
+.padding{
+    padding: 40px 5px 0px;
+}
+
