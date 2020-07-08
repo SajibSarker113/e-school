@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bottom-margin{
+    margin-bottom: 20px;
+}
+
+.button-sign-in{
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.bg-color{
+    background-color: #F0FFF0;
+}
+#t-align{
+    text-align: center;
+}
